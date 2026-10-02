@@ -1,0 +1,7 @@
+{
+  "name": "AI Middleman",
+  "description": "AI-powered procurement and sourcing platform connecting buyers with verified suppliers across Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
